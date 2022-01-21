@@ -1,0 +1,15 @@
+D:\Area de trabalho\codigos\Palavras\obj\Debug\net6.0\Palavras.csproj.AssemblyReference.cache
+D:\Area de trabalho\codigos\Palavras\obj\Debug\net6.0\Palavras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Area de trabalho\codigos\Palavras\obj\Debug\net6.0\Palavras.AssemblyInfoInputs.cache
+D:\Area de trabalho\codigos\Palavras\obj\Debug\net6.0\Palavras.AssemblyInfo.cs
+D:\Area de trabalho\codigos\Palavras\obj\Debug\net6.0\Palavras.csproj.CoreCompileInputs.cache
+D:\Area de trabalho\codigos\Palavras\bin\Debug\net6.0\Palavras.exe
+D:\Area de trabalho\codigos\Palavras\bin\Debug\net6.0\Palavras.deps.json
+D:\Area de trabalho\codigos\Palavras\bin\Debug\net6.0\Palavras.runtimeconfig.json
+D:\Area de trabalho\codigos\Palavras\bin\Debug\net6.0\Palavras.dll
+D:\Area de trabalho\codigos\Palavras\bin\Debug\net6.0\ref\Palavras.dll
+D:\Area de trabalho\codigos\Palavras\bin\Debug\net6.0\Palavras.pdb
+D:\Area de trabalho\codigos\Palavras\obj\Debug\net6.0\Palavras.dll
+D:\Area de trabalho\codigos\Palavras\obj\Debug\net6.0\ref\Palavras.dll
+D:\Area de trabalho\codigos\Palavras\obj\Debug\net6.0\Palavras.pdb
+D:\Area de trabalho\codigos\Palavras\obj\Debug\net6.0\Palavras.genruntimeconfig.cache
